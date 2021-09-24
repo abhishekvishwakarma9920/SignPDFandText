@@ -1,0 +1,15 @@
+
+<web-app>  
+  
+<servlet>  
+<servlet-name>Test</servlet-name>  
+<servlet-class>in.cryptofocus.dev.erobotdemo.Servlet</servlet-class>  
+</servlet>  
+  
+<servlet-mapping>  
+<servlet-name>Test</servlet-name>  
+<url-pattern>/Servlet</url-pattern>  
+</servlet-mapping>  
+  
+  
+</web-app> 
